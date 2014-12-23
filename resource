@@ -8,3 +8,4 @@ Twilio APIS: https://www.twilio.com/docs/api/rest
 Scrape pages from website: http://code.tutsplus.com/tutorials/how-to-scrape-web-pages-with-nodejs-and-jquery--net-22478
 Twilio python helper: https://www.twilio.com/docs/python/install
 https://www.twilio.com/blog/2013/08/verify-phone-numbers-with-node-js-using-twilio-sms-express-and-socket-io.html
+http://www.sitepoint.com/working-phone-numbers-javascript/
