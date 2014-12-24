@@ -12,3 +12,4 @@ http://www.sitepoint.com/working-phone-numbers-javascript/
 好 那个题我觉得实质是用python写一个爬虫cralwer 可以用到的库有urllib2和beautifulsoup 你可以看看github上有好多类似的cralwer代码
 Python module: urllib2, BeautifulSoup
 http://www.w3school.com.cn/tags/att_a_href.asp
+http://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
