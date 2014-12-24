@@ -14,3 +14,4 @@ Python module: urllib2, BeautifulSoup
 http://www.w3school.com.cn/tags/att_a_href.asp
 http://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
 正则表达式：http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html
+一个简单java爬虫爬取网页中邮箱并保存： http://blog.csdn.net/u013018721/article/details/36929579
