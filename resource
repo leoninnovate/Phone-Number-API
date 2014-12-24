@@ -11,3 +11,4 @@ https://www.twilio.com/blog/2013/08/verify-phone-numbers-with-node-js-using-twil
 http://www.sitepoint.com/working-phone-numbers-javascript/
 好 那个题我觉得实质是用python写一个爬虫cralwer 可以用到的库有urllib2和beautifulsoup 你可以看看github上有好多类似的cralwer代码
 Python module: urllib2, BeautifulSoup
+http://www.w3school.com.cn/tags/att_a_href.asp
