@@ -16,3 +16,4 @@ http://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
 正则表达式：http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html
 一个简单java爬虫爬取网页中邮箱并保存： http://blog.csdn.net/u013018721/article/details/36929579
 利用python的webscraping库采集抓取爱帮网电话号码：http://www.jincon.com/tag/webscraping/
+scrape the page, Using Python Beautiful Soup: http://kochi-coders.com/2011/05/30/lets-scrape-the-page-using-python-beautifulsoup/
