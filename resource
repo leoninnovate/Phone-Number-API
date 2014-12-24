@@ -13,3 +13,4 @@ http://www.sitepoint.com/working-phone-numbers-javascript/
 Python module: urllib2, BeautifulSoup
 http://www.w3school.com.cn/tags/att_a_href.asp
 http://www.crummy.com/software/BeautifulSoup/bs4/doc/#searching-the-tree
+正则表达式：http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html
